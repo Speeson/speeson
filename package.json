@@ -1,19 +1,18 @@
 {
   "name": "speeson",
   "version": "1.0.0",
-  "description": "GitHub Metrics",
-  "main": "index.js",
   "dependencies": {
-    "@lowlighter/metrics": "github:lowlighter/metrics"
+    "@lowlighter/metrics": "github:lowlighter/metrics",
+    "vue": "^2.7.16"
   },
-  "devDependencies": {},
+  "resolutions": {
+    "vue": "^3.0.0"
+  },
   "scripts": {
     "start": "npx @lowlighter/metrics -c .github/metrics.yml -o metrics.svg"
   },
+  "devDependencies": {},
   "author": "Speeson",
   "license": "MIT"
-}
-"resolutions": {
-  "vue": "^3.0.0"
 }
 
