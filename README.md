@@ -5,11 +5,6 @@ Welcome to my GitHub profile! I'm a **Full Stack Junior Developer** passionate a
 ## 🚀 About Me:
 I’m currently studying **Software Development** and have worked on projects using **Kotlin**, **Python (FastAPI)**, **JavaScript**, and **React**. I also have experience in DevOps tools such as **Docker** and **CI/CD** with **GitHub Actions**. My goal is to develop innovative solutions that make an impact in the software industry.
 
-### 📧 Contact:
-- Email: [estebangarcesperez@gmail.com](mailto:estebangarcesperez@gmail.com)
-- LinkedIn: [Esteban Garcés Pérez](https://www.linkedin.com/in/esgarces/)
-- GitHub: [Speeson](https://github.com/Speeson)
-
 ---
 
 ## 🛠️ Technologies & Tools:
