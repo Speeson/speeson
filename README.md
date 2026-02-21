@@ -56,12 +56,6 @@ I’m currently studying **Software Development** and have worked on projects us
 
 ---
 
-## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Speeson&show_icons=true&count_private=true)
-
-## 📈 Most Used Languages:
-![Metrics](https://metrics.lecoq.io/Speeson?template=classic&languages=1&isocalendar=1&config.timezone=Europe%2FMadrid)
-
 ## 🔗 Featured Projects:
 - [Sensor Inventory System with IoT](https://github.com/Speeson/InventariadoSensores) - Full stack with an Android app (Kotlin) and FastAPI backend.
 - [PokemonCounters](https://github.com/Speeson/PokemonCounters) - A web app built with JavaScript.
