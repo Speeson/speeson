@@ -1,0 +1,15 @@
+{
+  "name": "speeson",
+  "version": "1.0.0",
+  "description": "GitHub Metrics",
+  "main": "index.js",
+  "dependencies": {
+    "@lowlighter/metrics": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "npx @lowlighter/metrics -c .github/metrics.yml -o metrics.svg"
+  },
+  "author": "Speeson",
+  "license": "MIT"
+}
