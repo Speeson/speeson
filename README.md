@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a **Full Stack Junior Developer** passionate about learning new technologies and creating impactful software. I have practical experience in **frontend**, **backend**, and **DevOps** tools, and I'm looking for my first opportunity as a developer to continue growing and contributing to exciting projects.
 
 ## 🚀 About Me:
-I’m currently studying **Software Development** and have worked on projects using **Kotlin**, **Python (FastAPI)**, **JavaScript**, and **React**. I also have experience in DevOps tools such as **Docker** and **CI/CD** with **GitHub Actions**. My goal is to develop innovative solutions that make an impact in the software industry.
+I’m currently studying **Software Development** and have worked on projects using **Kotlin**, **Python (FastAPI)**, **JavaScript**, **TypeScript**, **React**, and **Vite**. I also have experience in DevOps tools such as **Docker** and **CI/CD** with **GitHub Actions**. My goal is to develop innovative solutions that make an impact in the software industry.
 
 ---
 
@@ -15,10 +15,15 @@ I’m currently studying **Software Development** and have worked on projects us
 ![Python](https://img.shields.io/badge/-Python-306998?style=flat&logo=python&logoColor=ffffff)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=ffffff)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=ffffff)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=ffffff)
 
 ### Frontend:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=ffffff)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=ffffff)
+![Astro](https://img.shields.io/badge/-Astro-000000?style=flat&logo=astro&logoColor=ffffff)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=ffffff)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=ffffff)
 
