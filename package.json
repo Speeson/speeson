@@ -13,4 +13,7 @@
   "author": "Speeson",
   "license": "MIT"
 }
+"resolutions": {
+  "vue": "^3.0.0"
+}
 
