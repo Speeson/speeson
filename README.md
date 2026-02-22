@@ -56,23 +56,6 @@ I’m currently studying **Software Development** and have worked on projects us
 
 ---
 
-## 🧑‍💻 Experience:
-### Automation & Data Analytics Intern - Aiuken Cybersecurity (2025 - Present)
-- Developed automated workflows with **n8n**.
-- Worked with **Python** and **Power BI** for data analysis and visualization.
-- Contributed to IT operations to improve efficiency.
-
-### Database Designer - Nembus Consulting (2024 - 2025)
-- Designed and modeled databases for web mentoring applications.
-
-### External Plant Engineer - Fibronautas SL (2021 - 2024)
-- Designed and calculated fiber optic infrastructure.
-
-### Topographic Engineering Assistant - FCC (2017 - 2019)
-- Assisted with topographic tasks using BIM software (AutoCAD, ETABS).
-
----
-
 ## 🔗 Featured Projects:
 - [Sensor Inventory System with IoT](https://github.com/Speeson/InventariadoSensores) - Full stack with an Android app (Kotlin) and FastAPI backend.
 - [PokemonCounters](https://github.com/Speeson/PokemonCounters) - A web app built with JavaScript.
