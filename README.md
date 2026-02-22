@@ -1,6 +1,6 @@
 # Esteban Garcés Pérez | Full Stack Developer Jr.
 
-![Banner](assets/banner.jpg)
+![Banner](assets/banner.png)
 
 Welcome to my GitHub profile! I'm a **Full Stack Junior Developer** passionate about learning new technologies and creating impactful software. I have practical experience in **frontend**, **backend**, and **DevOps** tools, and I'm looking for my first opportunity as a developer to continue growing and contributing to exciting projects.
 
