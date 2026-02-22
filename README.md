@@ -1,3 +1,4 @@
+![Banner](assets/banner.png)
 Welcome to my GitHub profile! I'm a **Full Stack Junior Developer** passionate about learning new technologies and creating impactful software. I have practical experience in **frontend**, **backend**, and **DevOps** tools, and I'm looking for my first opportunity as a developer to continue growing and contributing to exciting projects.
 ## About Me:
 I’m currently studying **Software Development** and have worked on projects using **Kotlin**, **Python (FastAPI)**, **JavaScript**, **TypeScript**, **React**, and **Vite**. I also have experience in DevOps tools such as **Docker** and **CI/CD** with **GitHub Actions**. My goal is to develop innovative solutions that make an impact in the software industry.
