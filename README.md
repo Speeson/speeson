@@ -130,14 +130,41 @@ These practices are applied to real multi-component projects, coordinating chang
 
 ## 🔗 Featured Projects
 
-- **[KeystoneSync](https://github.com/Speeson/weeklyChar)** — Multi-platform World of Warcraft companion ecosystem featuring a Tauri desktop client, Next.js web dashboard, Cloudflare Workers API, and game addon. Developed with spec-driven workflows, agentic development practices, automated testing, and deployment validation.
+🛒 NFCompra — Smart Shopping List & NFC Integration
 
-- **[Sensor Inventory System with IoT](https://github.com/Speeson/InventariadoSensores)** — Full-stack inventory management system featuring an Android application (Kotlin), FastAPI backend, PostgreSQL, Redis, Docker, and automated workflows.
+A full-stack, cross-platform shopping list management system combining Android, Web, and NFC technology.
 
-- **[PokemonCounters](https://github.com/Speeson/PokemonCounters)** — A web application built with JavaScript.
+Stack: Kotlin, Jetpack Compose, React, Vite, Cloudflare Workers, D1/SQLite, Vercel.
 
-- **[CVLandingPage](https://github.com/Speeson/CVLandingPage)** — Personal landing page showcasing my professional profile and development projects.
+Features: Shared households, collaborative shopping lists, member invitations, offline synchronization, biometric authentication, and NFC-powered shortcuts.
 
+Architecture: Monorepo with independent Android, Web, and API components.
+
+DevOps: GitHub Actions, selective CI/CD pipelines, Deployment Impact analysis, automated Android APK signing, and GitHub Releases.
+
+⚔️ KeystoneSync — World of Warcraft Companion Ecosystem
+
+A multi-platform World of Warcraft companion ecosystem featuring character progression tracking, Mythic+ management, team coordination, and equipment planning.
+
+Stack: Tauri, React, TypeScript, Next.js, Cloudflare Workers, D1/SQLite, Lua.
+
+Architecture: Desktop client, web dashboard, serverless API, and World of Warcraft addon.
+
+Engineering: Spec-Driven Development, agentic workflows, automated testing, and deployment validation.
+
+📦 IoTrack — IoT Inventory Management System
+
+A full-stack inventory management system developed as my final Multiplatform Application Development (DAM) project.
+
+Stack: Kotlin, FastAPI, PostgreSQL, Redis, Celery, Docker.
+
+Features: Inventory tracking, stock movements, sensor integration, automated alerts, and offline capabilities.
+
+DevOps: GitHub Actions, Prometheus, Grafana, and containerized infrastructure.
+
+🎮 PokemonCounters
+
+A web application built with JavaScript.
 ---
 
 ## 🌐 Portfolio
