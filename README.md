@@ -162,9 +162,6 @@ Features: Inventory tracking, stock movements, sensor integration, automated ale
 
 DevOps: GitHub Actions, Prometheus, Grafana, and containerized infrastructure.
 
-### 🎮 PokemonCounters
-
-A web application built with JavaScript.
 ---
 
 ## 🌐 Portfolio
