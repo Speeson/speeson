@@ -164,11 +164,24 @@ DevOps: GitHub Actions, Prometheus, Grafana, and containerized infrastructure.
 
 ---
 
-## 🌐 Portfolio
 
-Explore my projects and learn more about my work:
+<h2 align="center">🌐 Portfolio</h2>
 
-**[esgarpe.dev](https://esgarpe.dev)**
+<p align="center">
+  Explore my projects, technical skills, and professional experience.
+</p>
+
+<p align="center">
+  <a href="https://esgarpe.dev">
+    <img src="assets/logo.png" alt="EGP Developer Logo" width="120" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://esgarpe.dev">
+    <img src="https://img.shields.io/badge/esgarpe.dev-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="esgarpe.dev" />
+  </a>
+</p>
 
 ---
 
