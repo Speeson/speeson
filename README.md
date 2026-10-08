@@ -130,7 +130,7 @@ These practices are applied to real multi-component projects, coordinating chang
 
 ## 🔗 Featured Projects
 
-🛒 NFCompra — Smart Shopping List & NFC Integration
+### 🛒 NFCompra — Smart Shopping List & NFC Integration
 
 A full-stack, cross-platform shopping list management system combining Android, Web, and NFC technology.
 
@@ -142,7 +142,7 @@ Architecture: Monorepo with independent Android, Web, and API components.
 
 DevOps: GitHub Actions, selective CI/CD pipelines, Deployment Impact analysis, automated Android APK signing, and GitHub Releases.
 
-⚔️ KeystoneSync — World of Warcraft Companion Ecosystem
+### ⚔️ KeystoneSync — World of Warcraft Companion Ecosystem
 
 A multi-platform World of Warcraft companion ecosystem featuring character progression tracking, Mythic+ management, team coordination, and equipment planning.
 
@@ -152,7 +152,7 @@ Architecture: Desktop client, web dashboard, serverless API, and World of Warcra
 
 Engineering: Spec-Driven Development, agentic workflows, automated testing, and deployment validation.
 
-📦 IoTrack — IoT Inventory Management System
+### 📦 IoTrack — IoT Inventory Management System
 
 A full-stack inventory management system developed as my final Multiplatform Application Development (DAM) project.
 
@@ -162,7 +162,7 @@ Features: Inventory tracking, stock movements, sensor integration, automated ale
 
 DevOps: GitHub Actions, Prometheus, Grafana, and containerized infrastructure.
 
-🎮 PokemonCounters
+### 🎮 PokemonCounters
 
 A web application built with JavaScript.
 ---
