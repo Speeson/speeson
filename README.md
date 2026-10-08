@@ -144,7 +144,7 @@ DevOps: GitHub Actions, selective CI/CD pipelines, Deployment Impact analysis, a
 
 ### ⚔️ [KeystoneSync — World of Warcraft Companion Ecosystem](https://github.com/Speeson/weeklyChar)
 
-A multi-platform World of Warcraft companion ecosystem featuring character progression tracking, Mythic+ management, team coordination, and equipment planning.
+A full-stack, multi-platform World of Warcraft companion ecosystem consisting of three interconnected applications: a World of Warcraft addon, a web application, and a Windows desktop application, powered by a centralized serverless backend.
 
 Stack: Tauri, React, TypeScript, Next.js, Cloudflare Workers, D1/SQLite, Lua.
 
